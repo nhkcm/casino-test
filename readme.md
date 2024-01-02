@@ -10,13 +10,13 @@ levantar el cluster de kafka
 ```docker-compose -f kafka-2-cluster.yml up -d```
 
 levantar tasks:
-```
+```CMD
 cd /task
 npm run start
 ```
 
 levantar users:
-```
+```CMD
 cd /users
 npm run start
 ```
