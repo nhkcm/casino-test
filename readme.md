@@ -7,7 +7,9 @@ api users:
 ```http://localhost:3001/api```
 
 levantar el cluster de kafka
-```docker-compose -f kafka-2-cluster.yml up -d```
+```cmd
+docker-compose -f kafka-2-cluster.yml up -d
+```
 
 levantar tasks:
 ```CMD
