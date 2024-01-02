@@ -1,4 +1,4 @@
-![alt text](https://github.com/nhkcm/casino-test/diagrama.png)
+![alt text](https://github.com/nhkcm/casino-test/blob/main/diagrama.png)
 
 api tasks:
 ```http://localhost:3000/api```
