@@ -22,7 +22,7 @@ npm run start
 ```
 
 postmant collection:
-```
+```json
 {
 	"info": {
 		"_postman_id": "5b9d6ab0-45ed-4060-97b7-2150b7f3410d",
